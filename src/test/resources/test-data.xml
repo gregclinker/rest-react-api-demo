@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <cards id='101' name='Fred Flintsone' number='4003600006848770' balance='-99.12' credit_limit='100.00'/>
+    <cards id='102' name='Wilma Flintsone' number='4003600006849034' balance='-122.45' credit_limit='200.00'/>
+    <cards id='103' name='Barny Rubble' number='4003600006848796' balance='100.00' credit_limit='300.00'/>
+    <cards id='104' name='Betty Rubble' number='4003600006848804' balance='100.00' credit_limit='400.00'/>
+</dataset>
