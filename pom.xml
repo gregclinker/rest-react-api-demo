@@ -11,7 +11,7 @@
 
     <groupId>com.ps</groupId>
     <artifactId>rest-api-demo</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.1</version>
     <name>rest-api-demo</name>
     <description>REST API Demo</description>
 
